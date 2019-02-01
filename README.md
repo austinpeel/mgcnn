@@ -27,4 +27,4 @@ Confusion matrices and evaluation metrics (loss function and validation accuracy
 
 ## Figures
 
-TODO
+<img src="https://github.com/austinpeel/mgcnn/blob/master/figures/pdf_cm_sigma0.png" alt="noiseless_confusion_matrix" width="400"/>
